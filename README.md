@@ -4,7 +4,7 @@ I'm a passionate learner and tech enthusiast, currently exploring various aspect
 
 ## 🔭 I’m currently working on
 
-- Enhancing my skills in Python, Java, and C++
+- Enhancing my skills in Python and Java
 - Exploring advanced topics in machine learning and data analysis
 
 ## 🌱 I’m currently learning
