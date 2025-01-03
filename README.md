@@ -3,13 +3,13 @@ I'm Dhawal Sakharwade
 Software Developer
 I am a Bachelor of Technology student specializing in Information Technology at Vishwakarma Institute of Technology, Pune, graduating in 2025. I am proficient in Python and Java, and certified in AWS Cloud, with a strong passion for Machine Learning and Data Analysis. I have hands-on experience in AI through my internship at Anantadi and contributing as part of the AI & ML team at Team Quark, VIT Pune. I am actively seeking opportunities to apply my skills in Data Science roles. <br>
 
-age: 21 <br>
+Age: 21 <br>
 
-phone : +91 9307109309 <br>
+Phone : +91 9307109309 <br>
 
-email : dhawalsakharwade9@gmail.com <br>
+Email : dhawalsakharwade9@gmail.com <br>
 
-place : Pune, Maharashtra, India <br>
+Place : Pune, Maharashtra, India <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dhawal_sakharwade/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhawal-sakharwade-18362822a/?originalSubdomain=in) 
